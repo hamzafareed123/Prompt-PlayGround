@@ -42,7 +42,6 @@ Get a free API key at [console.groq.com](https://console.groq.com)
 npm start
 ```
 
-Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## Prompting techniques
 
@@ -53,6 +52,5 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 | Chain-of-thought | Asks the AI to think step by step |
 | ReAct | AI reasons, acts, observes, then concludes |
 
-## Built as part of
 
-Week 4 of an AI Engineering learning journey — Prompt Engineering module.
+
